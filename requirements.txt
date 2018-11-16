@@ -1,3 +1,5 @@
+absl-py==0.6.1
+astor==0.7.1
 backcall==0.1.0
 bleach==2.1.4
 bokeh==1.0.1
@@ -8,6 +10,9 @@ decorator==4.3.0
 defusedxml==0.5.0
 entrypoints==0.2.3
 future==0.17.1
+gast==0.2.0
+grpcio==1.16.1
+h5py==2.8.0
 html5lib==1.0.1
 idna==2.7
 ipykernel==5.0.0
@@ -22,8 +27,12 @@ jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 jupyterthemes==0.19.6
+Keras==2.2.4
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 lesscpy==0.13.0
+Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==3.0.0
 mistune==0.8.3
@@ -42,6 +51,7 @@ pkg-resources==0.0.0
 ply==3.11
 prometheus-client==0.3.1
 prompt-toolkit==2.0.4
+protobuf==3.6.1
 ptyprocess==0.6.0
 Pygments==2.2.0
 pyparsing==2.2.1
@@ -59,6 +69,9 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
+tensorboard==1.12.0
+tensorflow==1.12.0
+termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.1
 tornado==5.1.1
@@ -67,4 +80,5 @@ udacity-pa==0.2.8
 urllib3==1.24.1
 wcwidth==0.1.7
 webencodings==0.5.1
+Werkzeug==0.14.1
 widgetsnbextension==3.4.2
