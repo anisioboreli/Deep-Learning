@@ -14,7 +14,7 @@
       <file leaf-file-name="my_answers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_answers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
+            <state relative-caret-position="2376">
               <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
             </state>
           </provider>
@@ -30,9 +30,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="90" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="928" />
+    <option name="width" value="1845" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -55,7 +55,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/ML_feat_JM" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,9 +83,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="24" width="928" height="1056" extended-state="4" />
+    <frame x="65" y="24" width="1845" height="1056" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38793105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38753387" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
@@ -110,6 +111,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my_answers.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_answers.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2502">
           <caret line="139" column="18" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
         </state>
@@ -125,7 +133,7 @@
     <entry file="file://$PROJECT_DIR$/my_answers_cagado.py" />
     <entry file="file://$PROJECT_DIR$/my_answers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="2376">
           <caret line="132" column="28" lean-forward="true" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
         </state>
       </provider>

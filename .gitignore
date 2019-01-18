@@ -1,4 +1,8 @@
 env_*
+*.csv
 tests*
 *checkpoint*
 *Solutions*
+*flower_photos*
+*images*
+*MNIST_data*
